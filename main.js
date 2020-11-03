@@ -3,7 +3,7 @@
 var Github_Username = "prono69";
 
 //Replace With Your Own Email ID
-var Email_Id = "faltu9851@gmail.com";
+var Email_Id = "mail.me@kirito1.ga";
 
 //Details Fetch From Github's API
 var getJSON = function (url, callback) {
