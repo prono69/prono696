@@ -1,9 +1,9 @@
 
 //Replace With Your Own Github Username
-var Github_Username = "cachecleanerjeet";
+var Github_Username = "prono69";
 
 //Replace With Your Own Email ID
-var Email_Id = "me@mailtuhin.ml";
+var Email_Id = "mail.me@kirito1.ga":
 
 //Details Fetch From Github's API
 var getJSON = function (url, callback) {
